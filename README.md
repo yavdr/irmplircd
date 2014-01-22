@@ -1,4 +1,4 @@
-irmplircd
-=========
+yavdr-addon-irmp
+================
 
-irmplircd package for yaVDR
+Driver and Skripts for USB-IRMP Receiver
