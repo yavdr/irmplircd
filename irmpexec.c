@@ -50,7 +50,7 @@
 #include <sys/file.h>
 
 #include "debug.h"
-#include "c_hashmap/hashmap.h"
+#include "hashmap.h"
 #include "mapping.h"
 
 static int lirc_fd = -1;

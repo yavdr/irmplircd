@@ -39,7 +39,7 @@
 #include <ctype.h>
 
 #include "debug.h"
-#include "c_hashmap/hashmap.h"
+#include "hashmap.h"
 #include "mapping.h"
 
 bool parse_translation_table(const char *path, map_t mymap) {

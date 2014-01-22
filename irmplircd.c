@@ -47,7 +47,7 @@
 #include <linux/input.h>
 
 #include "debug.h"
-#include "c_hashmap/hashmap.h"
+#include "hashmap.h"
 #include "mapping.h"
 
 typedef struct {
